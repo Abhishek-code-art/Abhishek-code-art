@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development and learning new Technologies
 - 🌱 I’m currently learning Web Development and wants to build my own website
 - 💞️ I like to learn new things and technology
-- ❤️ I like to live with my family and friends.
+- ❤️ I love to live with my family and friends.
 - 📫 if you like to know about my life more, you can follow me on instagram
 
 <!---
